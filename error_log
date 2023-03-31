@@ -1,0 +1,60 @@
+[29-Jan-2023 05:11:20 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:11:20 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:11:27 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:11:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:13:29 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:13:29 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:13:32 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:13:32 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:15:05 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:15:05 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:15:07 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:15:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:38 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:38 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:40 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:40 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:41 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:41 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:42 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:16:42 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:38:37 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:38:37 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:42:15 America/Boise] PHP Warning:  require(/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php): Failed to open stream: No such file or directory in /home3/elshakhs/public_html/ecomerce/index.php on line 24
+[29-Jan-2023 05:42:15 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/elshakhs/public_html/ecomerce/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/elshakhs/public_html/ecomerce/index.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/elshakhs/public_html/ecomerce/index.php on line 24
